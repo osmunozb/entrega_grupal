@@ -1,5 +1,24 @@
-h1 {
+body {
+  height: 100vh;
+}
+header h1 {
   background-color: #0d6efd;
   color: #fff;
   margin: 0;
+}
+nav {
+  padding: 0;
+}
+form {
+  padding-top: 5px;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.informacion {
+  margin: 0 auto;
+  width: 65%;
 }
